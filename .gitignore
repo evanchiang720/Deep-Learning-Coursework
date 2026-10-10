@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# 大檔案：模型權重 (超過 GitHub 限制)
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# 大檔案：錄影成果影片
+*.mp4
+*.avi
+
+# 虛擬環境
+venv/
+.env/
