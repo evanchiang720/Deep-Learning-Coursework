@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Course Projects (NYCU)
+# Deep Learning Course Projects (NYCU)
 
 This repository contains my assignments and projects for the **Deep Learning** course, covering foundational neural networks, computer vision, generative models, and reinforcement learning.
 
